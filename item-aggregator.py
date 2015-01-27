@@ -1,3 +1,5 @@
+import pandas as py
+
 deck = []
 asking = True
     
